@@ -1,0 +1,21 @@
+{
+  "name": "module-2",
+  "version": "1.0.0",
+  "description": "module-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.9",
+    "prettier-plugin-solidity": "^1.4.1",
+    "solhint": "^5.0.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
